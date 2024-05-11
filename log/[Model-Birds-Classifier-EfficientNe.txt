@@ -1,0 +1,7 @@
+[Model-Birds-Classifier-EfficientNetB2] optuna log
+
+Average Training Loss = 0.025791, Validation Loss = 0.394537
+
+Best trial: {'batch_size': 32, 'lr': 6.645378139746999e-05, 'img_size': 256, 'p_rotate': 0.16841573201739102, 'p_flip': 0.2952826987353553}
+Training with parameters: {'batch_size': 32, 'lr': 6.645378139746999e-05, 'img_size': 256, 'p_rotate': 0.16841573201739102, 'p_flip': 0.2952826987353553}
+
