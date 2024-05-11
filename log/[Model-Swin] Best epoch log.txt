@@ -1,0 +1,23 @@
+[Model-Swin] Best epoch log
+
+[I 2024-05-05 10:06:34,800] Trial 0 finished with value: 3.213007598212271 and parameters: {'batch_size': 16, 'lr': 0.0009022182449400097, 'p_rotate': 0.20771216799998893, 'p_flip': 0.11663250938865588}. Best is trial 0 with value: 3.213007598212271.
+
+[I 2024-05-05 14:07:21,226] Trial 1 finished with value: 0.220131124398022 and parameters: {'batch_size': 32, 'lr': 0.00011749125781236029, 'p_rotate': 0.49747738408492614, 'p_flip': 0.2804243265645191}. Best is trial 1 with value: 0.220131124398022.
+
+[I 2024-05-05 17:15:17,208] Trial 2 finished with value: 0.29237382784485816 and parameters: {'batch_size': 64, 'lr': 0.0003679288456495794, 'p_rotate': 0.9537138699263421, 'p_flip': 0.4337843113232591}. Best is trial 1 with value: 0.220131124398022.
+
+[I 2024-05-05 20:18:28,492] Trial 3 finished with value: 0.28784215323626994 and parameters: {'batch_size': 64, 'lr': 0.0003751090543369302, 'p_rotate': 0.7375347539529008, 'p_flip': 0.857574414377934}. Best is trial 1 with value: 0.220131124398022.
+
+[I 2024-05-06 00:16:18,099] Trial 4 finished with value: 3.1716476835385716 and parameters: {'batch_size': 32, 'lr': 0.0020470030827002624, 'p_rotate': 0.2014070136075582, 'p_flip': 0.20555400659353618}. Best is trial 1 with value: 0.220131124398022.
+
+[I 2024-05-06 04:16:36,296] Trial 5 finished with value: 0.17743228944112557 and parameters: {'batch_size': 32, 'lr': 2.1895923818665253e-05, 'p_rotate': 0.4153718538408363, 'p_flip': 0.25725408435593533}. Best is trial 5 with value: 0.17743228944112557.
+
+[I 2024-05-06 07:19:08,195] Trial 6 finished with value: 3.2165603542327883 and parameters: {'batch_size': 64, 'lr': 0.005679302512522189, 'p_rotate': 0.8930865646630995, 'p_flip': 0.48963260725067403}. Best is trial 5 with value: 0.17743228944112557.
+
+[I 2024-05-06 12:49:41,821] Trial 7 finished with value: 3.217798549719531 and parameters: {'batch_size': 16, 'lr': 0.0037780416541625737, 'p_rotate': 0.06911778912128574, 'p_flip': 0.0982485130456402}. Best is trial 5 with value: 0.17743228944112557.
+
+[I 2024-05-06 18:26:11,504] Trial 8 finished with value: 0.18944772766877171 and parameters: {'batch_size': 16, 'lr': 4.4945972669028834e-05, 'p_rotate': 0.5279201852182421, 'p_flip': 0.31882831052434113}. Best is trial 5 with value: 0.17743228944112557.
+
+[I 2024-05-07 00:06:08,201] Trial 9 finished with value: 3.2164785874010335 and parameters: {'batch_size': 16, 'lr': 0.002270488692170838, 'p_rotate': 0.9539056630151231, 'p_flip': 0.6642875470674545}. Best is trial 5 with value: 0.17743228944112557.
+
+[I 2024-05-07 04:06:49,906] Trial 10 finished with value: 0.19386527815250434 and parameters: {'batch_size': 32, 'lr': 1.5017822767530857e-05, 'p_rotate': 0.4673625846955563, 'p_flip': 0.6687619845433993}. Best is trial 5 with value: 0.17743228944112557.
