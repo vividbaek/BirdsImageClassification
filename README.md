@@ -10,19 +10,19 @@
 [DAT_3기_캡스톤_프로젝트 TIP](https://github.com/user-attachments/files/15613419/DAT.3.TIP.pdf)
 
 [주제]
-![Image Description](https://github.com/vividbaek/TIP-Team/tree/main/code/ReadMe_Image/주제.png)
+![주제](https://raw.githubusercontent.com/vividbaek/TIP-Team/main/code/ReadMe_Image/%EC%A3%BC%EC%A0%9C.png)
 
 [모델_EfficientNet]
-![Image Description](https://github.com/vividbaek/TIP-Team/tree/main/code/ReadMe_Image/EfficientNet.png)
+![EfficientNet](https://raw.githubusercontent.com/vividbaek/TIP-Team/main/code/ReadMe_Image/EfficientNet.png)
 
 [모델_EfficientNet_Birds]
-![Image Description](https://github.com/vividbaek/TIP-Team/tree/main/code/ReadMe_Image/EfficientNet_Birds.png)
+![EfficientNet_Birds](https://raw.githubusercontent.com/vividbaek/TIP-Team/main/code/ReadMe_Image/EfficientNet_Birds.png)
 
 [모델_SwinTransformer]
-![Image Description](https://github.com/vividbaek/TIP-Team/tree/main/code/ReadMe_Image/SwinTransformer.png)
+![SwinTransformer](https://raw.githubusercontent.com/vividbaek/TIP-Team/main/code/ReadMe_Image/SwinTransformer.png)
 
 [모델_SwinTransformer_optuna]
-![Image Description](https://raw.github.com/vividbaek/TIP-Team/tree/main/code/ReadMe_Image/SwinTransformer_optuna.png)
+![SwinTransformer_optuna](https://raw.githubusercontent.com/vividbaek/TIP-Team/main/code/ReadMe_Image/SwinTransformer_optuna.png)
 
 데이콘 대회: https://dacon.io/competitions/official/236251/overview/description
 
